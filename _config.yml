@@ -24,13 +24,13 @@ description              : "가치있고 다양한 개발을 해보고 싶은 �
 url                      : "https://cwj7333.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cwj7333/cwj7333.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "CWJ's Dev story" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"# false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : cwj7333 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -102,12 +102,12 @@ analytics:
 # Site Author
 author:
   name             : "Wanjoo cho"
-  avatar           : "/assets/images/profile/m_profile.png" # 프로필 이미지
+  avatar           : "/assets/images/profile.png" # 프로필 이미지
   bio              : "Turn imagination into reality!!!"
   location         : "Republic of Korea"
   #email            : "cwj7333@gmail.com"
   links:
-    - label: "Email"
+    - label: "cwj7333@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cwj7333@gmail.com"
     - label: "Website"
