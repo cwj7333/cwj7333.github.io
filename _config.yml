@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/images/profile/m_profile.png" # 프로필 이미지
   bio              : "Turn imagination into reality!!!"
   location         : "Republic of Korea"
-  email            : "cwj7333@gmail.com"
+  #email            : "cwj7333@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:cwj7333@gmail.com"
+      url: "mailto:cwj7333@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
