@@ -102,14 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "Wanjoo cho"
-  avatar           : "/assets/images/profile/programmer.png" # 프로필 이미지
-  bio              : "꾸준히 공부하여 성장하는 개발자입니다. <br> 포스트 글에서 잘못된 부분이나 수정했으면 하는 부분은 적극적으로 댓글 남겨주신다면 감사하겠습니다."
+  avatar           : "/assets/images/profile/m_profile.png" # 프로필 이미지
+  bio              : "Turn imagination into reality!!!"
   location         : "Republic of Korea"
   email            : "cwj7333@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cwj7333@gmail.com"
+      #url: "mailto:cwj7333@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
